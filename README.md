@@ -1,6 +1,6 @@
 # middleman-framer
 
-A basic template for Framer applications with Middleman.
+A basic template for [Framer](http://framerjs.com) applications with [Middleman](http://middlemanapp.com).
 
 ### Start a new Framer app
 
